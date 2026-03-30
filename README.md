@@ -4,18 +4,18 @@ A professional, high-tech mission control dashboard for an autonomous solar-powe
 
 ## Key Features
 
-✅ **Hero Section** - Agrirover branding with live status indicator
-✅ **GPS Field Mapping** - Interactive map showing rover position and field coverage path
-✅ **Environmental Sensors** - Real-time gauges for Soil pH, Moisture %, and Temperature
-✅ **Soil Nutrient Analysis (NPK)** - Advanced vertical bar charts for Nitrogen, Phosphorus, and Potassium levels (mg/kg)
-✅ **Nutrient Alerts** - Real-time notifications when nutrient levels drop below critical thresholds with fertilizer recommendations
-✅ **Power Management** - Battery health and solar charge rate visualization  
-✅ **Manual Overrides** - Directional pad (Arrow keys) to control DC gear motors
-✅ **Data Logging** - Real-time table of sensor readings including NPK values
-✅ **CSV Export** - Download complete data logs for analysis
-✅ **WebSocket Updates** - Real-time data push using Socket.io (no page refresh needed)
-✅ **Emergency Stop** - Red button for immediate rover shutdown
-✅ **Modbus RS485 Ready** - Backend prepared for real NPK sensor integration via USB-to-RS485 converter
+* ✅ **Hero Section** - Agrirover branding with live status indicator
+* ✅ **GPS Field Mapping** - Interactive map showing rover position and field coverage path
+* ✅ **Environmental Sensors** - Real-time gauges for Soil pH, Moisture %, and Temperature
+* ✅ **Soil Nutrient Analysis (NPK)** - Advanced vertical bar charts for Nitrogen, Phosphorus, and Potassium levels (mg/kg)
+* ✅ **Nutrient Alerts** - Real-time notifications when nutrient levels drop below critical thresholds with fertilizer recommendations
+* ✅ **Power Management** - Battery health and solar charge rate visualization  
+* ✅ **Manual Overrides** - Directional pad (Arrow keys) to control DC gear motors
+* ✅ **Data Logging** - Real-time table of sensor readings including NPK values
+* ✅ **CSV Export** - Download complete data logs for analysis
+* ✅ **WebSocket Updates** - Real-time data push using Socket.io (no page refresh needed)
+* ✅ **Emergency Stop** - Red button for immediate rover shutdown
+* ✅ **Modbus RS485 Ready** - Backend prepared for real NPK sensor integration via USB-to-RS485 converter
 
 ## Why NPK Analysis Matters
 
